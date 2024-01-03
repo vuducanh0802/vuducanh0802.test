@@ -6,11 +6,11 @@
 
 A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
 
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
+- Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
 
-* Manage courses that you are teaching.
+- Manage courses that you are teaching.
 
-* Provide updates to your students and faulty.
+- Provide updates to your students and faulty.
 
 For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
 
